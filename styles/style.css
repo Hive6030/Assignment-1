@@ -8,6 +8,9 @@
 .drak-2{
     color: rgb(14, 14, 14, 50%);
 }
+.drak-3{
+    color: rgb(14, 14, 14, 70%)
+}
 
 .btn-primary{
     border: none;
@@ -21,6 +24,7 @@
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0 60px 0px 60px;
     
 }
 
@@ -67,3 +71,76 @@ nav ul li {
    padding: 1;
    margin-left: 8px;
    }
+
+   .hero{
+    width: auto;
+    height: 300px;
+    margin-left:20x
+}
+
+.banner-button{
+    margin: 0 75px 100px 100px;
+    margin-bottom: 50px;
+}
+
+/* card styles */
+.card-content{
+    margin: 0 160px 0px 160px;
+    margin-top: 50px;
+}
+.card-des{
+    color: rgb(14, 14, 14, 70%);
+}
+.content-container{
+    display: flex;
+    margin-top: 32px;
+    gap: 24px;
+}
+.content-title{
+    font-weight: 700;
+    font-size: 20px;
+    height: 24px;
+    text-align: left;
+
+}
+.Digital-Transformation{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    padding: 15px;
+}
+
+.btn-1{
+    background-color: rgb(84, 144, 245);
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    color: white;
+}
+
+.Green-Energy{
+    background-color: rgb(198, 228, 214);
+    border-radius: 16px;
+    padding: 15px;
+}
+
+.btn-2{
+    background-color:rgb(9, 161, 92) ;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    color: white;
+}
+
+.Modern-Infrastructure{
+    background-color: rgb(247, 235, 207);
+    border-radius: 16px;
+    padding: 15px;
+}
+
+.btn-3{
+    background-color: rgb(255, 194, 57);
+    padding: 15px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
