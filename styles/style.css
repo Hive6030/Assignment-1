@@ -144,3 +144,33 @@ nav ul li {
     color: white;
     border: none;
 }
+/* Dr. Muhammad Yunus speach */
+.yns-bani{
+    background-image: url(../Img/quote-bg.png);
+    background: no-repeat;
+    padding: 48px 24px 48px 24px;
+}
+.bani{
+
+background: no-repeat;
+margin: 20px 160px 0px 160px;
+border: rgb(0, 0, 0);
+border-radius: 5px;
+
+ }
+ .dr-name{
+    color: rgba(14, 14, 14, 0.8);
+    font-weight: 600;
+    font-size: 20px;
+    height: 24px;
+    margin: 12px 160px 0 160px;
+ }
+ .dr-c{
+    margin: 0 160px 0px 160px
+
+ }
+
+/* News */
+.news{
+    margin: 0 160px 0px 160px
+}
